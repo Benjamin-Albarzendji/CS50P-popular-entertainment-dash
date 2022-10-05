@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import streamlit as st
 
-API = "b7c00f5d4143ca2676c8a038a175a041"
+API = "FILL IN"
 IMAGE_URL = "https://image.tmdb.org"
 
 def main():
