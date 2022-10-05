@@ -1,0 +1,8 @@
+requests
+bs4
+streamlit
+https://www.themoviedb.org API key
+
+
+
+
